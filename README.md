@@ -2,7 +2,7 @@
 
 
 ##### <a href="https://www.codeeval.com/open_challenges/140/"> Data Recovery </a>
-
+Running Time: O(n)
 
 
 ##### <a href="https://www.codeeval.com/open_challenges/17/"> Sum of Integers </a>
