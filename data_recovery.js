@@ -1,3 +1,0 @@
-function dataRecovery (randomOrderList,printOrder) {
-
-}
